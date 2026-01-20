@@ -1,0 +1,21 @@
+{
+  "name": "trmenu-signaling-server",
+  "version": "1.0.0",
+  "description": "Signaling server for TrMenu Web Custom collaboration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.19.0",
+    "y-webrtc": "^10.3.0"
+  },
+  "keywords": [
+    "yjs",
+    "webrtc",
+    "signaling"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs"
+}
