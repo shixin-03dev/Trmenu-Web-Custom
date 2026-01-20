@@ -2,6 +2,8 @@
 
 ## 📖 项目简介 (Introduction)
 
+**本仓库范围仅限前端源码、后端、信令相关代码待项目完善程度较高时公开**
+
 **TrMenu Web Custom** 是专为 Minecraft 高级菜单插件 [TrMenu V3](https://hhhhhy.gitbook.io/trmenu-v3) 设计的在线可视化配置工具。
 
 TrMenu V3 功能强大，支持动态图标、复杂动作（Actions）、Kether 脚本以及多种交互事件，但其 YAML 配置文件结构较为复杂，手动编写容易出现语法错误或逻辑混淆。本项目旨在提供一个 **"所见即所得" (WYSIWYG)** 的 Web 界面，帮助服务器管理员和开发者快速构建、调试和导出 TrMenu 菜单配置。
